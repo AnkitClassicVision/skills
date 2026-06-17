@@ -156,6 +156,14 @@ Skills I use daily for code work.
 - **[to-prd](./skills/engineering/to-prd/SKILL.md)** — Turn the current conversation context into a PRD and submit it as a GitHub issue. No interview — just synthesizes what you've already discussed.
 - **[zoom-out](./skills/engineering/zoom-out/SKILL.md)** — Tell the agent to zoom out and give broader context or a higher-level perspective on an unfamiliar section of code.
 - **[prototype](./skills/engineering/prototype/SKILL.md)** — Build a throwaway prototype to flesh out a design — either a runnable terminal app for state/business-logic questions, or several radically different UI variations toggleable from one route.
+- **[run-project](./skills/engineering/run-project/SKILL.md)** — Universal project conductor. Runs a repo through grill, PRD, spec, context, visualization, issue breakdown, implementation planning, execution QA, and acceptance.
+- **[agent-spec-writer](./skills/engineering/agent-spec-writer/SKILL.md)** — Write behavioral specifications precise enough for AI coding agents to implement safely.
+- **[context-layer-generator](./skills/engineering/context-layer-generator/SKILL.md)** — Build structural, semantic, and decision-reasoning context layers for modules and services.
+- **[seeit](./skills/engineering/seeit/SKILL.md)** — Create an interactive visual comprehension artifact for a project, spec, agent workflow, or AI-built system.
+- **[writing-plans](./skills/engineering/writing-plans/SKILL.md)** — Write bite-sized implementation plans with exact files, steps, commands, and verification checkpoints.
+- **[skillify](./skills/engineering/skillify/SKILL.md)** — Turn a repository into a reusable repo-as-skill manifest with module context and inferred ADRs.
+- **[aac-process-design](./skills/engineering/aac-process-design/SKILL.md)** — Design or audit agentic AI workflows with process-first autonomy gates and recovery paths.
+- **[agenttwin](./skills/engineering/agenttwin/SKILL.md)** — Diagnose, score, and map an AI agent or workflow using a closed-loop readiness report.
 
 ### Productivity
 

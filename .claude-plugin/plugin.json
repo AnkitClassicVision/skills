@@ -15,6 +15,14 @@
     "./skills/productivity/grill-me",
     "./skills/productivity/handoff",
     "./skills/productivity/scout",
-    "./skills/productivity/write-a-skill"
+    "./skills/productivity/write-a-skill",
+    "./skills/engineering/run-project",
+    "./skills/engineering/agent-spec-writer",
+    "./skills/engineering/context-layer-generator",
+    "./skills/engineering/seeit",
+    "./skills/engineering/writing-plans",
+    "./skills/engineering/skillify",
+    "./skills/engineering/aac-process-design",
+    "./skills/engineering/agenttwin"
   ]
 }
